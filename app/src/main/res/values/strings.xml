@@ -4,4 +4,9 @@
     <string name="hp">082375938475</string>
     <string name="BtnHallo">Klik Aja</string>
     <string name="title1">CTRL + V</string>
+    <string name="Txbawah">Select your motorcycle</string>
+    <string name="Btn1">left</string>
+    <string name="Btn2">Right</string>
+    <string name="lt"><![CDATA[<]]></string>
+    <string name="gt"><![CDATA[>]]></string>
 </resources>
