@@ -9,4 +9,10 @@
     <string name="Btn2">Right</string>
     <string name="lt"><![CDATA[<]]></string>
     <string name="gt"><![CDATA[>]]></string>
+    <string name="Bio1">Nama:</string>
+    <string name="Bio2">Phone:</string>
+    <string name="Bio3">Address:</string>
+    <string name="enter1">Enter Your Name</string>
+    <string name="enter2">Enter Your Phone Number</string>
+    <string name="enter3">Enter Your Address</string>
 </resources>
